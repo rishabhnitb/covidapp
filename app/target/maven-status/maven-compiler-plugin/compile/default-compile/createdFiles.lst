@@ -1,0 +1,11 @@
+app\covid\dao\DBManager.class
+app\covid\pojos\Subject.class
+app\covid\dao\StudentDAO.class
+app\covid\util\ConfigurationProj.class
+app\covid\controller\StudentController.class
+app\covid\controller\SubjectController.class
+app\covid\entities\StudentEntity.class
+app\covid\dao\StudentDAOImpl.class
+app\covid\pojos\Student.class
+app\covid\entities\SubjectEntity.class
+app\covid\util\HibernateUtil.class
