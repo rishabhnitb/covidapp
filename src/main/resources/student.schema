@@ -1,0 +1,13 @@
+{
+	registration_no : 0,
+	mail : "",
+	subjects : [{
+			subject_code : 0,
+			subject : "",
+		},
+		{
+			subject_code : 0,
+			subject : "",
+	}],
+
+}
