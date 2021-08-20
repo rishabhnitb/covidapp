@@ -1,7 +1,10 @@
 app\covid\dao\DBManager.class
+app\covid\controller\Authentication.class
+app\covid\controller\Secured.class
 app\covid\pojos\Subject.class
 app\covid\dao\StudentDAO.class
 app\covid\util\ConfigurationProj.class
+app\covid\controller\AuthenticationFilter.class
 app\covid\controller\StudentController.class
 app\covid\controller\SubjectController.class
 app\covid\entities\StudentEntity.class
